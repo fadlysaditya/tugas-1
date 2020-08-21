@@ -8,7 +8,7 @@ function Homepage() {
         <>
             <div style={{height: 45}} />
             <div className="section-banner">
-                <img src="https://dummyimage.com/700x300/2c9e7e/f50000.png&text=Banner+Dummy" />
+                <img src="https://dummyimage.com/1280x300/2c9e7e/f50000.png&text=Dummy+Banner" />
             </div>
 
 
